@@ -13,10 +13,10 @@ This simple Python script allows you to generate a QR code containing WiFi conne
 1. Install Python 3.6 or higher if you don't have it already.
 2. Install the required libraries using pip:
 
-```bash
+bash
 pip install qrcode
 pip install pillow
-```
+
 ## Usage
 Run the script in your terminal or command prompt:
 
